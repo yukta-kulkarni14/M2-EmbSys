@@ -5,7 +5,9 @@
 suction unit,  also a couple of sensors are used to avoid the obstacles present on the way. This design is
 used for domestic and industrial purpose.
 
-<<<<<<< HEAD
+# Block Diagram
+![BD_floor_clean](https://user-images.githubusercontent.com/98872185/154783217-ee02892d-c544-4a29-97e0-b79bcb813ed8.PNG)
+
 # Components used
 
 * This design consists of Arduino controller, Driver motors, DC motor, Ultrasonic sensor, Servo motors, Vacuum pump.
@@ -41,7 +43,5 @@ Distance= ½ (speed of sound * time taken)
 ## Vacuum Pump
 * For Cleaning purpose  vacuum pump is used instead of conventional blower fans, resulting in higher suction power, leading to shorter cleaning time with better cleaning results. 
 * The powerful suction thus generated enables to pick metal chips, garbage, paper pieces, dust particles.
-=======
-# Block Diagram
-![BD_floor_clean](https://user-images.githubusercontent.com/98872185/154783217-ee02892d-c544-4a29-97e0-b79bcb813ed8.PNG)
->>>>>>> 92db481635133220c5fdd553c8bd69312017d9fa
+
+
