@@ -1,0 +1,6 @@
+# Automatic Floor Cleaner
+
+# Description
+* An Automatic floor cleaner embedded system is designed which can crawl throughout the room and can collect garbage and dust particles using vaccum pump mounted on this device. The controller is used to drive the motors and the
+suction unit,  also a couple of sensors are used to avoid the obstacles present on the way. This design is
+used for domestic and industrial purpose.
