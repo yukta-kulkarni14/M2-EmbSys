@@ -44,4 +44,12 @@ Distance= ½ (speed of sound * time taken)
 * For Cleaning purpose  vacuum pump is used instead of conventional blower fans, resulting in higher suction power, leading to shorter cleaning time with better cleaning results. 
 * The powerful suction thus generated enables to pick metal chips, garbage, paper pieces, dust particles.
 
+# High level requirements
 
+## High level requirements
+| ld | Description | Category |
+| --- | --- | --- |
+| HL1 | Path sensing using ultrasonic sensor | Technical |
+| HL2 | Calculating the obstacle distance | Technical |
+| HL3 | Movement of the bot | Technical |
+| HL4 | suction of dust particles using Vacuum tube | Technical |
