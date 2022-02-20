@@ -62,3 +62,7 @@ Distance= ½ (speed of sound * time taken)
 | LL3 | Calculating the distance travelled by ultrasonic waves and multiplying the duration by 0.034 | Technical |
 | LL4 | Various movement patterns based on obstacle | Technical |
 | LL5 | suction of dust particles using Vacuum tube | Technical |
+
+
+# V-Model design
+![v_model](https://user-images.githubusercontent.com/98872185/154843619-51f6a8b5-bf05-4366-bcbe-94ac0f084d1f.PNG)
