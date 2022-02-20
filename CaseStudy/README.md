@@ -53,8 +53,8 @@ Distance= ½ (speed of sound * time taken)
 | HL2 | Calculating the obstacle distance | Technical |
 | HL3 | Movement of the bot | Technical |
 | HL4 | Controlling suction power | Technical |
+
 ## Low level requirements
-## High level requirements
 | ld | Description | Category |
 | --- | --- | --- |
 | LL1 | Three directions to be sensed by ultrasonic sensor (Left, right, Front) | Technical |
