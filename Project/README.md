@@ -64,3 +64,9 @@ Distance= ½ (speed of sound * time taken)
 
 # V-Model design
 ![v_model](https://user-images.githubusercontent.com/98872185/154843619-51f6a8b5-bf05-4366-bcbe-94ac0f084d1f.PNG)
+
+# Applications of Vacuum cleaner
+1) Freshen Upholstery, Pillows, and Carpets.
+2) Prevent House Fires.
+3) Reduce Indoor Allergens.
+4) Exert Insect Control.
