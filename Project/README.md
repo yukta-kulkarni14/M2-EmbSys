@@ -70,3 +70,16 @@ Distance= ½ (speed of sound * time taken)
 2) Prevent House Fires.
 3) Reduce Indoor Allergens.
 4) Exert Insect Control.
+
+# System Design
+1) Path sensing unit.
+2) Distance calculation.
+3) Robotic movement.
+4) Suction unit.
+
+# Sub-system Design
+1) Direction control by ultrasonic sensor.
+2) Communication through ultrasonic waves.
+3) Calculation of travelling duration.
+4) Various movement patterns.
+5) Vacuum suction of particles.
