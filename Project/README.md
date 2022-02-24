@@ -43,3 +43,43 @@ Distance= ½ (speed of sound * time taken)
 ## Vacuum Pump
 * For Cleaning purpose  vacuum pump is used instead of conventional blower fans, resulting in higher suction power, leading to shorter cleaning time with better cleaning results. 
 * The powerful suction thus generated enables to pick metal chips, garbage, paper pieces, dust particles.
+
+## High level requirements
+| ld | Description | Category |
+| --- | --- | --- |
+| HL1 | Path sensing using ultrasonic sensor | Technical |
+| HL2 | Calculating the obstacle distance | Technical |
+| HL3 | Movement of the bot | Technical |
+| HL4 | Controlling suction power | Technical |
+
+## Low level requirements
+| ld | Description | Category |
+| --- | --- | --- |
+| LL1 | Three directions to be sensed by ultrasonic sensor (Left, right, Front) | Technical |
+| LL2 | To send and receive the ultrasonic waves | Technical |
+| LL3 | Calculating the distance travelled by ultrasonic waves and multiplying the duration by 0.034 | Technical |
+| LL4 | Various movement patterns based on obstacle | Technical |
+| LL5 | suction of dust particles using Vacuum tube | Technical |
+
+
+# V-Model design
+![v_model](https://user-images.githubusercontent.com/98872185/154843619-51f6a8b5-bf05-4366-bcbe-94ac0f084d1f.PNG)
+
+# Applications of Vacuum cleaner
+1) Freshen Upholstery, Pillows, and Carpets.
+2) Prevent House Fires.
+3) Reduce Indoor Allergens.
+4) Exert Insect Control.
+
+# System Design
+1) Path sensing unit.
+2) Distance calculation.
+3) Robotic movement.
+4) Suction unit.
+
+# Sub-system Design
+1) Direction control by ultrasonic sensor.
+2) Communication through ultrasonic waves.
+3) Calculation of travelling duration.
+4) Various movement patterns.
+5) Vacuum suction of particles.
