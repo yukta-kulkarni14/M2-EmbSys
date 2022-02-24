@@ -39,6 +39,10 @@ Distance= ½ (speed of sound * time taken)
 * The generated voltage from the reflection will be very low. 
 * An IR module has three pins - Vcc, ground, and output. Usually, the output goes low when an obstacle comes in front of the sensor
 
+## Voltage Reguator(LM7805)
+* It is a 3-terminal voltage regulator that outputs any voltage to +5V.
+* In this design it converts the 7.4V from battery to 5V.
+
 ## Vacuum Pump
 * For Cleaning purpose  vacuum pump is used instead of conventional blower fans, resulting in higher suction power, leading to shorter cleaning time with better cleaning results. 
 * The powerful suction thus generated enables to pick metal chips, garbage, paper pieces, dust particles.
