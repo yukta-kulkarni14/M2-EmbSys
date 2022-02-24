@@ -5,17 +5,26 @@
 suction unit,  also a couple of sensors are used to avoid the obstacles present on the way. This design is
 used for domestic and industrial purpose.
 
+# Identifying Features
+* Avoiding obstacles and path sensing using ultrasonic sesnor.
+* Falling from stairs can be avoided by IR proximity sensor.
+* Calculating obstacle distance.
+* Various movement patterns of bot.
+* Cleaning dust particles through vacuum tube.
+
+# State of art/Research
+Automatic floor cleaner plays an important role in our busy life, which cleans the house with single press button. This bot is very simple and cost effective when compared with comercial products and it is more compact and portable. Equipped with Ultrasonic and IR proximity sensor these two sesnors plays a major role ultrasonic sensor avoids obstacles untill cleaning operation is completed and IR proximity sensor avoids falling from stairs. Due to technological advancement in this new age, robotic vacuum cleaner cleans floors automatically without human intervention. This wonderful device maneuvers around table legs and corners of wherever it is vacuuming.
 
 # Components used
 
-* This design consists of Arduino controller, Driver motors, DC motor, Ultrasonic sensor, Servo motors, Vacuum pump.
+* This design consists of Arduino controller, Motor Driver, DC motor, Ultrasonic sensor, IR Proximity sensor, Vacuum pump.
 
 ## Ardunino UNO
 * Arduino UNO is a microcontroller board which has ATmega328 from the AVR family which controlls the all process to be carried out in the system.
 * There are 14 digital input/output pins, 6 Analog pins, a 16 MHz ceramic resonator, USB connection, power jack, and also  has a  reset button. 
 * Its software supported  by  a number  of libraries  that makes the programming easier.
 
-## Driver Motors
+## Motor Driver
 * L293D is a Motor Driver IC which is used to connect the motor with the microcontroller and provide them  sufficient voltage supply to the design. 
 * L293D has  16-pins in  which 4  are input  pins, 4  are output pins, 2 are enable pin, 4 GND pins and 2 pins for power supply.  It is used to control  DC motors simultaneously to rotate the bot in any direction. 
 * It works according to the concept of H-bridge. The voltage has to change its direction to rotate the motor in clockwise or anticlockwise direction.
@@ -33,10 +42,15 @@ are mounted on front, right and left side of wheels.
 * For measuring the distance: 
 Distance= ½ (speed of sound * time taken)
 
-## Servo Motor
-* A servo motor  is a rotary actuator or linear actuator that allows for precise control of angular or linear position, velocity and acceleration.
-* It consists of a suitable motor coupled to a sensor for position feedback. 
-* The servo motor is used to rotate the ultrasonic sensor so that it can 'look-around'.
+## IR Proximity Sensor
+* IR sensors are object or obstacle detection infront of sensor.
+* It has an IR LED and a photodiode, the IR LED emits IR light and if any obstacle comes in front of this emitted light, it will be reflected, and the reflected light will be detected by the photodiode. 
+* The generated voltage from the reflection will be very low. 
+* An IR module has three pins - Vcc, ground, and output. Usually, the output goes low when an obstacle comes in front of the sensor
+
+## Voltage Reguator(LM7805)
+* It is a 3-terminal voltage regulator that outputs any voltage to +5V.
+* In this design it converts the 7.4V from battery to 5V.
 
 ## Vacuum Pump
 * For Cleaning purpose  vacuum pump is used instead of conventional blower fans, resulting in higher suction power, leading to shorter cleaning time with better cleaning results. 
