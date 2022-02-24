@@ -5,6 +5,15 @@
 suction unit,  also a couple of sensors are used to avoid the obstacles present on the way. This design is
 used for domestic and industrial purpose.
 
+# Identifying Features
+* Avoiding obstacles and path sensing using ultrasonic sesnor.
+* Falling from stairs can be avoided by IR proximity sensor.
+* Calculating obstacle distance.
+* Various movement patterns of bot.
+* Cleaning dust particles through vacuum tube.
+
+# State of art/Research
+Automatic floor cleaner plays an important role in our busy life, which cleans the house with single press button. This bot is very simple and cost effective when compared with comercial products and it is more compact and portable. Equipped with Ultrasonic and IR proximity sensor these two sesnors plays a major role ultrasonic sensor avoids obstacles untill cleaning operation is completed and IR proximity sensor avoids falling from stairs. Due to technological advancement in this new age, robotic vacuum cleaner cleans floors automatically without human intervention. This wonderful device maneuvers around table legs and corners of wherever it is vacuuming.
 
 # Components used
 
