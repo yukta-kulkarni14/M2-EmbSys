@@ -1,3 +1,7 @@
+# Block Diagram
+![BD_FC](https://user-images.githubusercontent.com/98872185/155708471-750a3503-6801-48c5-baf5-fc89f11b81ea.PNG)
+
+
 # Components used
 
 * This design consists of Arduino controller, Motor Driver, DC motor, Ultrasonic sensor, IR Proximity sensor, Vacuum pump.
