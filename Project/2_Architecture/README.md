@@ -42,3 +42,22 @@ Distance= ½ (speed of sound * time taken)
 ## Vacuum Pump
 * For Cleaning purpose  vacuum pump is used instead of conventional blower fans, resulting in higher suction power, leading to shorter cleaning time with better cleaning results. 
 * The powerful suction thus generated enables to pick metal chips, garbage, paper pieces, dust particles.
+
+# V-Model design
+![v_model](https://user-images.githubusercontent.com/98872185/154843619-51f6a8b5-bf05-4366-bcbe-94ac0f084d1f.PNG)
+
+
+# System Design
+1) Path sensing unit.
+2) Distance calculation.
+3) Robotic movement.
+4) Straicase detection.
+5) Suction unit.
+
+# Sub-system Design
+1) Direction control by ultrasonic sensor.
+2) Communication through ultrasonic waves.
+3) Calculation of travelling duration.
+4) Various movement patterns.
+5) Avoid bot falling from stairs.
+6) Vacuum suction of particles.
