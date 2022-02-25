@@ -17,7 +17,7 @@ Automatic floor cleaner plays an important role in our busy life, which cleans t
 
 # Abstract
 Automatic floor cleaner is compact robotic system which provides floor cleaning service in rooms, office reducing human intervension. Households of today are becoming smarter and more automated. Home automation delivers convenience and creates more time for people. It is cost effective and performs cleaning activity with more efficiency. Cleaning manually has human error, time consuming and labours involved in cleaning floor may not clean as good as a robotic system.
-The cleaner will be a step for providing comfortable life by resolving problems in traditional floor cleaning methods. The purpose of this project is to construct a floor cleaner which will be fully automatic providing obstacle detection by ultrasonic sensor and avoiding the bot falling from staircase using IR sensor.
+The cleaner will be a step for providing comfortable life by resolving problems in traditional floor cleaning methods. The purpose of this project is to construct a floor cleaner which will be fully automatic providing obstacle detection by ultrasonic sensor and avoiding the bot falling from staircase using IR sensor.The controller is used to drive the motors and the suction unit also a couple of sensors are used to avoid the obstacles. This can be useful in improving the lifestyle of mankind. Automatic floor cleaner is an automated machine that facilitates the user to keep their place clean and hygienic. 
 
 # Components used
 
