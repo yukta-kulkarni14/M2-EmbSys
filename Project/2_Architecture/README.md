@@ -43,6 +43,10 @@ Distance= ½ (speed of sound * time taken)
 * For Cleaning purpose  vacuum pump is used instead of conventional blower fans, resulting in higher suction power, leading to shorter cleaning time with better cleaning results. 
 * The powerful suction thus generated enables to pick metal chips, garbage, paper pieces, dust particles.
 
+# Flowchart
+![FF2](https://user-images.githubusercontent.com/98872185/155760065-22b28913-d386-4de7-980d-0b21674bb88b.PNG)
+
+
 # V-Model design
 ![v_model](https://user-images.githubusercontent.com/98872185/154843619-51f6a8b5-bf05-4366-bcbe-94ac0f084d1f.PNG)
 
