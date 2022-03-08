@@ -6,7 +6,7 @@
 
 * This design consists of Arduino controller, Motor Driver, DC motor, Ultrasonic sensor, IR Proximity sensor, Vacuum pump.
 
-## Ardunino UNO
+## Arduino UNO
 * Arduino UNO is a microcontroller board which has ATmega328 from the AVR family which controlls the all process to be carried out in the system.
 * There are 14 digital input/output pins, 6 Analog pins, a 16 MHz ceramic resonator, USB connection, power jack, and also  has a  reset button. 
 * Its software supported  by  a number  of libraries  that makes the programming easier.
@@ -35,7 +35,7 @@ Distance= ½ (speed of sound * time taken)
 * The generated voltage from the reflection will be very low. 
 * An IR module has three pins - Vcc, ground, and output. Usually, the output goes low when an obstacle comes in front of the sensor
 
-## Voltage Reguator(LM7805)
+## Voltage Regulator(LM7805)
 * It is a 3-terminal voltage regulator that outputs any voltage to +5V.
 * In this design it converts the 7.4V from battery to 5V.
 
