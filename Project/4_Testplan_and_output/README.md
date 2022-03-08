@@ -9,7 +9,7 @@
 | HL_4 | Staircase detection using IR sensor | User execution | pressing the push button by user as a interrupt | pressing the push button by user as a interrupt |:heavy_check_mark: |
 | HL_5 | Controlling suction power | Program execution | Blinking of LED light | Blinking of LED light |:heavy_check_mark:|
 
-## Low Test plan
+## Low level Test plan
 | Test ID | Description | Expected i/p | Expected o/p | Actual o/p | Status |
 | --- | --- | --- | --- | --- | --- |
 | LL_1 | Three directions to be sensed by ultrasonic sensor | Program execution | Directions and obstacles are detected | Directions and obstacles are detected | :heavy_check_mark:|
